@@ -22,6 +22,7 @@ SetEnvIfNoCase Referer lomb.co spambot=yes
 SetEnvIfNoCase Referer o-o-6-o-o.com spambot=yes
 SetEnvIfNoCase Referer priceg.com spambot=yes
 SetEnvIfNoCase Referer priceg.ru spambot=yes
+SetEnvIfNoCase Referer resellerclub.com spambot=yes
 SetEnvIfNoCase Referer simple-share-buttons.com spambot=yes
 SetEnvIfNoCase Referer social-buttons.com spambot=yes
 
